@@ -1,3 +1,4 @@
+
 public class PseudoRandom {
   private int seed;
   private int multiplier;

@@ -116,7 +116,7 @@ public class Employee implements Cloneable {
    * the instance variabel in a single string separetaed by spaces
    */
   public String toString() {
-    String s = name + " " + id + " " + age + " " + state + " " + zipCode + " " + advisor;
+    String s = name + "," + id + "," + age + "," + state + "," + zipCode + "," + advisor;
     return s;
   }
 
